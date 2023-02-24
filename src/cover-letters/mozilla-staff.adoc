@@ -1,0 +1,43 @@
+= Mozilla: Nitin Vericherla cover letter
+Nitin Vericherla
+v20230123, 2023
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20230123
+:revdate: Jan 2023
+:revremark: Initial Release 
+:encoding: utf-8
+:doctype: book
+:notitle: true
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+
+## Mozilla
+
+### Why I want to join
+I used Netscape as my main browser in the 90's, and Mozilla was my first exposure to a true open-source company. I have always found Mozilla to be "doing the right thing," and I admire the quality of software that you release.
+
+I have used many of the Mozilla products over the years: I think I've used all of the browsers and Thunderbird; my current default browser on my phone is Firefox Focus, which is amazing; and I have been using Pocket for a long time. I also have a deep respect for the MDN docs, which I rely on heavily; and Rust, which I have only ever heard good things about.
+
+I also firmly believe in the mission of Mozilla and the impact it has.
+
+### Why I might be of value
+Going by the criteria listed in the job description, I believe I have compatible experience that I can leverage and build upon at my time there:
+
+- I don't have a degree since I left University shortly before completing it (to start my own business), but I have a lot of direct industry experience that I can lean on - building a marketing platform for Nestle that scales to handle spikes from contests, leading the work on Search at Rogers Communications, building out the personalized mortgage rates platform at TD bank; I have learned a lot through these and other experiences that I think shape my approaches to solving problems.
+- I actively participate in code reviews and mentor very strong developers regularly. I think this has come to become my core strength over the years, and I have received great feedback and have helped many engineers grow over the years.
+- I work well with Product teams and end-users to define the work that needs to be done. I have worked at a few companies where this was important and which had a good process, and also many that didn't, so I think I have a sense of what can be beneficial when it comes to breaking down the work that needs to be done.
+- I have built out foundational architecture and patterns to follow at most of the organizations that I've worked at since about 2015. I enjoy this type of work and enjoy discussing these with other developers to land on something that is embraced by the majority of folks at the organization. 
+- I have worked with typescript and javascript for a long time now and really love the tooling around them that's available now.
+
+### What I am looking for
+I've made the journey from a new developer to a seasoned architect, and along the way I've been thrust into a people-management role. Where I initially thought I would be terrible at it, it ended up giving me some of my most rewarding moments of my career.
+
+I am looking to work at a place where I believe in their vision and where I am exposed to strong developers and interesting challenges. I would love to do more work with mentoring individuals and teams, but I am also looking to leverage and grow my skills in software architecture.

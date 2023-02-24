@@ -1,0 +1,261 @@
+= Nitin Vericherla CV
+Nitin Vericherla
+v20230127, 2023
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20230127
+:revdate: Jan 2023
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Nitin Vericherla
+
+image::blank.png[,5,5]
+
+I'm a full-stack software architect, mentor, and author.
+
+### My experience
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Nov 21 - Present
+s|UI Architect
+|`Synapse Wireless`
+
+|
+2+|`AWS lambda`, `AWS Cloudfront`, `Angular`, `NgRx`, `Nx`, `Apollo server`, `GraphQL`
+
+|
+2+a|
+* Large platform that allowed for monitoring and control of IoT devices - there was a cloud application and an on-prem application that needed synchronization; as well as a graphQL server
+* Added Observability to the system to log errors, unhandled exceptions, and correlationIds for querying and alerts
+* Brought CI time for PRs down from 40+ minutes to 7 minutes
+* Ran weekly UI architecture meetings to encourage knowledge-sharing and to debate our approaches and tech choices
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Mar 21 - Nov 21
+s|Staff Software Developer
+|`Intuit Canada`
+
+|
+2+|`React`, `Java`
+
+|
+2+a|
+* Worked on the UI for importing W2 and other tax forms (US)
+* Worked on the UI architecture team to modernize the stack from older angular versions to React
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Nov 19 - Dec 20
+s|Angular Architect (Contract)
+|`SiriusXM`
+
+|
+2+|`Angular`, `NgRx`, `Nx`, `Docker`
+
+|
+2+a|
+* Brought the workspace into the mono-repo structure
+* Handled state management changes to handle checkout and purchase
+* Coached the development team on Nx and Angular concepts
+* Reduced CI time from 40+ minutes to 10 minutes
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Mar 18 - Nov 19
+s|Angular Architect
+|`Nrwl.io`
+
+|
+2+a|`Angular`, `NgRx`, `Nx`
+
+|
+2+a|
+* Hands-on with several large clients consisting of many large teams to help resolve monorepo issues: state management, CI, adding real-time capabilities, ensuring test coverage, upgrading workspaces, and many more unique challenges
+* Used the lessons learned from clients to publish a book, "Enterprise Angular Monorepo Patterns," available on Gumroad
+* Managed 4 developers
+* Responsible for driving the entire hiring process for the organization. It was an interesting challenge due to the high bar for candidates
+* Implemented a 360-degree feedback system for the organization
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Sep 17 - Mar 18
+s|Solutions Architect
+|`Rangle.io`
+
+|
+2+a|`Angular`
+
+|
+2+a|
+* Introduced an organization-wide architecture for driving site content from a headless CMS for an airline
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Jan 17 - Sep 17
+s|Solutions Designer (Contract)
+|`TD Wealth`
+
+|
+2+a|`Node`, `StrongLoop`, `Angular`, `Java`
+
+|
+2+a|
+* Led a team of 10 developers across the stack (front-end through to mainframe)
+* Implemented on-demand personalized rates which combined historical data with business rules for the different products and attributes via a new API endpoint and front-end (Angular) application
+* This was a transformation effort and required mainframe changes, batch processing with Java, import of binary data from the vendor, handling of business rules to override the imported data, and implementation of the API endpoint and sample front-end
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Nov 15 - Oct 16
+s|Application Development Lead (Contract)
+|`Rogers Communications Inc.`
+
+|
+2+a|`Angular`, `NgRx`, `Node`
+
+|
+2+a|
+* Led the development of Fido self-service for customers, which involved a digital transformation that touched everything from the front-end through to fulfillment. This initiative ran in parallel to the Rogers.com transformation but had its own set of challenges
+* Led the development of a new architecture for CMS-driven pages on rogers.com and was used as part of the Search and Support sections. This used node, java, and Angular. I implemented the node layer to handle ETL from the headless CMS vendor and managed the development of the front-end application
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Mar 14 - Nov 15
+s|Sr. javascript developer
+|`Rangle.io`
+
+|
+2+a|`Angular`, `Node`, `Express`, `nwjs`, `Cordova`, `Ionic`
+
+|
+2+a|
+* Implemented the node and mongoDb back-end for a transit company which allowed them to collect and process all of the transit events for every vehicle in all of the depots
+* Implemented a framework for an ad agency to spin up new contests and events complete with a front-end, back-end and database - this used node, mongoDb and backbone
+* Created 2 mobile applications (Cordova) for mechanics: to communicate with each other and their operators, and to manage all of their daily work from within one application (determining which sites to visit, checking in and out, and tracking the work performed and time taken). The communications application was also deployed as a desktop application using the same codebase
+* Mentored 4 colleagues in their professional growth and conducted their 360 reviews every quarter
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Mar 13 - Mar 14
+s|Web/Mobile developer
+|`Koda Media Group`
+
+|
+2+a|`Angular`, `Cordova`, `Neo4j`
+
+|
+2+a|
+* Implemented a real-time platform for merchandise sales at concerts and events
+* Created the node back-end and graph database
+* Created the mobile app using Cordova
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Sep 12 - Feb 13
+s|Web developer
+|`Brushfire North Inc.`
+
+|
+2+a|
+* Worked on full-stack development projects with .Net MVC and web forms architectures for ScotiaBank, kiosk applications and Audit Dashboard
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|May 07 - Sep 12
+s|Lead front-end developer (Contract)
+|`Damashek Consulting Ltd.`
+
+|
+2+a|
+* Created a framework for making single-page application experiences possible using Sharepoint and leveraging the SOAP APIs
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Dec 05 - Apr 07
+s|Web developer
+|`Glenbriar Technologies Ltd.`
+|
+2+a|
+* Built multiple sites for clients using XMLHttpRequest to create single-page application experiences back before all of the frameworks.
+* Built a CRM application for serving up customer data when receiving a phone call using .Net
+* Built an internal site for managing all of the data for a non-profit
+
+|===
+====
