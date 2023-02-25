@@ -5,6 +5,6 @@ module.exports = {
   scripts: {
     default: 'build',
     build:
-      'docker run --rm -v $PWD:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf ./README.adoc -a pdf-style=src/theme.yml -o ./dist/nv-resume.pdf',
+      'docker run --rm -v $PWD:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf ./resume.adoc -a pdf-style=src/theme.yml -o ./dist/nv-resume.pdf',
   },
 };
