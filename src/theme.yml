@@ -1,3 +1,4 @@
+extends: default
 font:
   catalog:
     # Noto Serif supports Latin, Latin-1 Supplement, Latin Extended-A, Greek, Cyrillic, Vietnamese & an assortment of symbols
@@ -11,6 +12,11 @@ font:
       bold: /documents/assets/fonts/Lato/Lato-Bold.ttf
       italic: /documents/assets/fonts/Lato/Lato-Italic.ttf
       bold_italic: /documents/assets/fonts/Lato/Lato-BoldItalic.ttf
+    NotoSans:
+      normal: /documents/assets/fonts/NotoSans/NotoSans-Regular.ttf
+      bold: /documents/assets/fonts/NotoSans/NotoSans-Bold.ttf
+      italic: /documents/assets/fonts/NotoSans/NotoSans-Italic.ttf
+      bold_italic: /documents/assets/fonts/NotoSans/NotoSans-BoldItalic.ttf
     Fira:
       normal: /documents/assets/fonts/Fira_Code/FiraCode-Regular.ttf
       bold: /documents/assets/fonts/Fira_Code/FiraCode-SemiBold.ttf
@@ -53,7 +59,7 @@ base:
   # color as CMYK array (approximated)
   #font_color: [0, 0, 0, 0.92]
   #font_color: [0, 0, 0, 92%]
-  font_family: Lato
+  font_family: NotoSans
   # choose one of these font_size/line_height_length combinations
   #font_size: 14
   #line_height_length: 20
@@ -88,8 +94,12 @@ link:
 # literal is currently used for inline monospaced in prose and table cells
 literal:
   font_color: $base_that_blue
-  font_family: Lato
+  font_family: NotoSans
 menu_caret_content: " <font size=\"1.15em\"><color rgb=\"0395de\">\u203a</color></font> "
+ulist:
+  marker:
+    circle:
+      content: "\u25ca"
 heading:
   align: left
   #font_color: 181818
