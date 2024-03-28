@@ -1,0 +1,126 @@
+= Nitin Vericherla CV
+Nitin Vericherla
+v20240221, 2024
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20240221
+:revdate: Jan 2024
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Nitin Vericherla
+
+### About Me
+Much like in _The Structure of Scientific Revolutions_, software development has also had periods of intense development in one paradigm before shifting to another. I've had 20 years to delve into many different paradigms with web applications - from the days of post-backs and frames to the rise of XMLHTTPRequest and single page applications, microservices, event-based architectures, and now into CI and mobile. I've been lucky to work at many organizations that were pushing the boundaries of what is possible within that paradigm, and have learned not only how to leverage these experiences to my advantage, but also how to avoid the pitfalls.
+
+### Core Competencies
+* **Front-End**: Typescript, Angular, React, HTML, CSS
+* **Back-End**: Typescript, Node.js, Express
+* **Tooling**: Nx, Typescript, OpenAPI, Docker
+* **Architecture**: Documentation, analysis, requirements gathering, APIs, caching, i18n, o11y
+* **Testing**: Unit testing, end-to-end testing (BDD); testing strategies, writing good tests instead of chasing coverage
+* **Cloud Technologies**: Azure, AWS, Firebase
+* **Communication**: Excellent written and verbal communication skills, adept at collaborating with diverse stakeholders
+* **Mentorship**: Proven ability to coach and mentor developers, fostering knowledge sharing and skill development
+
+### Professional Experience
+
+#### Solutions Developer V^*^, TD Canada Trust
+Mar 23 - Mar 24 +
+_Angular, React, Typescript, NgRx, Node.js, Spring Boot, API contracts_
+
+* Migrated two major mortgage pre-approval applications to a unified Angular/Spring Boot application, removing a dependency on Salesforce development.
+* Implemented a new case-creation application in React/Spring Boot for insurance call centers.
+* _Removing blockers (dependencies with other teams, environment set up, CI), laying out the base architecture and communicating and documenting development practices; API contracts for UI and back-end, o11y features for logs and alerts, adding correlationIds, running weekly architecture meetings for knowledge sharing, 1:1 coaching, working with PO and BSA to groom stories for the backlog_
+
+#### UI Architect, Synapse Wireless
+Nov 21 - Feb 23 +
+_Angular, Typescript, NgRx, Nx, AWS Lambda, Node.js, GraphQL, Github Actions_
+
+* Architected and improved a cloud application for managing IoT network devices, focusing on high availability, observability, scalability, and seamless integration with on-premises controllers.
+* Drove the adoption of Nx-powered monorepo and CI, reducing build times to 7 minutes (from 40+), modularizing the codebase, and resolving dependency issues.
+* _Guiding teams through architecture for new initiatives, weekly architecture meetings, 1:1 coaching, end-to-end tests per-environment as part of CD, adding o11y features for logs, metrics, and correlationIds for debugging_
+
+#### Staff Software Developer, Intuit Canada
+Mar 21 - Nov 21 +
+_React, Typescript, Java_
+
+* Spearheaded the tax form import functionality, significantly improving the user experience.
+* _Enhanced code quality and maintainability through rigorous implementation of best practices and code reviews_
+
+
+#### Angular Architect^*^, SiriusXM and Scaled Agile  
+Nov 19 - Dec 20 +
+_Angular, Typescript, NgRx, Nx, Node.js_
+
+* Drove the architecture and development of multiple Angular applications within monorepos, enabling shared code and streamlined feature deployment across SiriusXM and Scaled Agile.
+* Reduced build and unit test times by over 75%, implementing efficient development practices and tooling.
+* _Migrated to Nx, migrated codebase for ngrx, added end-to-end tests with Cypress and parsed HAR files, defined architecture for libraries and wrote the scaffolding code for use-cases, coached 1:1 on state management_
+
+#### Angular Architect, Nrwl.io (now Nx)
+Mar 18 - Nov 19 +
+_Angular, Typescript, NgRx, Nx, Node.js, Socket.io_
+
+* As a key figure at Nrwl.io, championed the adoption and implementation of Nx for managing monorepos with clients, setting a standard for large-scale Angular projects.
+* Provided consulting services to Fortune 500 companies on Angular and Nx, enhancing their development processes and architecture.
+* _Mentored 4 direct reports, owned the hiring process, wrote and published a book on Nx, owned several key client relationships_
+
+#### Solutions Architect, Rangle.io
+Sep 17 - Mar 18 +
+_Angular, Typescript, Webpack, Magnolia CMS_
+
+* Led client projects focusing on UI and headless CMS, delivering bespoke solutions that drove significant improvements in client outcomes.
+* Acted as a technical liaison, effectively communicating complex solutions to stakeholders and ensuring alignment with business goals.
+
+
+#### Solutions Designer^*^, TD Wealth
+Jan 17 - Sep 17 +
+_Node.js, Typescript, Express, Angular, API contracts_
+
+* Designed and developed an API for personalized mortgage rates
+
+
+#### Application Development Lead ^*^, Rogers Communications Inc.
+Nov 15 - Oct 16 +
+_Angular, Typescript, Node.js, API contracts_
+
+* Led the development of the Fido self-service customer portal and a new CMS-driven architecture for Rogers.com's Search and Support sections, enhancing customer engagement and support capabilities.
+
+#### Sr. javascript developer, Rangle.io
+Mar 14 - Nov 15 +
+_Angular, Angular.js, Typescript, Node.js, Express, MongoDB, Electron, Ionic_
+
+* Early senior engineer in a well-known boutique consultancy, contributing to the development of innovative web applications using JavaScript frameworks for various clients.
+* _Owned several key client relationships as the senior dev on the team, delivered 4 key client projects, mentored 4 developers_
+
+
+#### Web/Mobile developer, Koda Media Group
+Mar 13 - Mar 14 +
+_Angular.js, Cordova, Neo4j, Node.js, Express_
+
+#### Web developer, Brushfire North Inc.
+Sep 12 - Feb 13 +
+_.Net, javascript_
+
+#### Lead front-end developer ^*^, Damashek Consulting Ltd.
+May 07 - Sep 12 +
+_Sharepoint, javascript, XML, XSLT, Photoshop, .Net_
+
+#### Web developer, Glenbriar Technologies Ltd.
+Dec 05 - Apr 07 +
+_javascript, PHP, .Net_
+
+### Achievements
+Published Author:: _Enterprise Angular Monorepo Patterns_: Wrote a comprehensive guide on leveraging monorepos for efficient software development, contributing to the adoption of best practices across the Angular community.
+
+_Roles marked with an asterisk (\*) denote contract positions.^*^_

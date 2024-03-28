@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Resume for Nitin Vericherla. Made with Asciidoc.",
   "main": "npm run build",
-  "type": "module",
   "dependencies": {
     "dockerode": "^2.5.8",
     "inquirer": "^9.2.12",

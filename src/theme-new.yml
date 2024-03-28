@@ -6,7 +6,7 @@ page:
   # margin_inner and margin_outer keys are used for recto/verso print margins when media=prepress
   margin_inner: 0.75in
   margin_outer: 0.59in
-  size: A4
+  size: Letter
 font:
   catalog:
     # Noto Serif supports Latin, Latin-1 Supplement, Latin Extended-A, Greek, Cyrillic, Vietnamese & an assortment of symbols
@@ -64,6 +64,10 @@ base:
   border_width: 0.5
   # prominent: 0395de
   prominent: 343434
+  that_blue: 0395de
+  that_darker_blue: 2E6287
+  # that_complementary: 0E8E48
+  that_complementary: CA6F40
 # FIXME vertical_rhythm is weird; we should think in terms of ems
 #vertical_rhythm: $base_line_height_length * 2 / 3
 # correct line height for Noto Serif metrics (comes with built-in line height)
@@ -75,7 +79,7 @@ link:
   font_color: 428bca
 # literal is currently used for inline monospaced in prose and table cells
 codespan:
-  font_color: $base_prominent
+  font_color: $base_that_blue
   font_family: Lato
 menu_caret_content: " <font size=\"1.15em\"><color rgb=\"0395de\">\u203a</color></font> "
 ulist:
@@ -86,17 +90,24 @@ heading:
   align: left
   #font_color: 181818
   font_color: $base_prominent
-  font_family: $base_font_family
+  font_family: Lato Light
   font_style: bold
   # h1 is used for part titles (book doctype) or the doctitle (article doctype)
-  h1_font_size: floor($base_font_size * 2.6)
+  h1:
+    font_size: floor($base_font_size * 2.6)
+    font_color: $base_that_darker_blue
   # h2 is used for chapter titles (book doctype only)
-  h2_font_size: floor($base_font_size * 3.15)
-  h2_font_color: $base_font_color
-  h2_font_style: normal
-  h2_font_family: Lato Light
-  h3_font_size: round($base_font_size * 1.7)
-  h4_font_size: $base_font_size_large
+  h2:
+    font_size: floor($base_font_size * 3.15)
+    font_color: $base_that_darker_blue
+    font_style: normal
+    font_family: Lato Light
+  h3:
+    font_size: round($base_font_size * 1.7)
+    font_color: $base_that_darker_blue
+  h4:
+    font_size: $base_font_size_large
+    margin_bottom: 2
   h5_font_size: $base_font_size
   h6_font_size: $base_font_size_small
   #line_height: 1.4
@@ -111,7 +122,7 @@ title_page:
   title:
     top: 55%
     font_size: $heading_h1_font_size
-    font_color: 999999
+    font_color: $base_that_blue
     line_height: 0.9
   subtitle:
     font_size: $heading_h3_font_size
@@ -120,7 +131,7 @@ title_page:
   authors:
     margin_top: $base_font_size * 1.25
     font_size: $base_font_size_large
-    font_color: 181818
+    font_color: $base_that_blue
   revision:
     margin_top: $base_font_size * 1.25
 block:
@@ -136,6 +147,7 @@ caption:
   margin_outside: 0
 lead:
   font_size: $base_font_size_large
+  font_color: $base_that_blue
   line_height: 1.4
 abstract:
   font_color: 5c6266
@@ -178,7 +190,7 @@ quote:
   cite_font_color: 999999
 # code is used for source blocks (perhaps change to source or listing?)
 code:
-  font_color: $base_font_color
+  font_color: $base_that_blue
   font_family: $literal_font_family
   font_size: ceil($base_font_size)
   padding: $code_font_size
@@ -228,6 +240,7 @@ thematic_break:
   margin_bottom: $vertical_rhythm * 1.5
 description_list:
   term_font_style: bold
+  term_font_color: $base_prominent
   term_spacing: $vertical_rhythm / 4
   description_indent: $horizontal_rhythm * 1.25
 list:
@@ -238,7 +251,7 @@ list:
 table:
   background_color: $page_background_color
   #head_background_color: <hex value>
-  #head_font_color: $base_font_color
+  head_font_color: $base_that_complementary
   head_font_style: bold
   #body_background_color: <hex value>
   body_stripe_background_color: $page_background_color

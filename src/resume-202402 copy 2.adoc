@@ -1,0 +1,116 @@
+= Nitin Vericherla CV
+Nitin Vericherla
+v20240221, 2024
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20240221
+:revdate: Jan 2024
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Nitin Vericherla
+
+image::blank.png[,5,5]
+
+### Objective
+Seasoned Software Engineer with close to 20 years of experience  in leading the design and development of full-stack initiatives. Expert in Typescript, Angular, Node, Nx, and modern frameworks; with a proven track record of driving process improvements and mentoring teams to achieve excellence. Passionate about building scalable, high-performance applications that enhance user experiences.
+
+### Core Competencies
+* **Front-End**: Deep expertise with Typescript, Angular, React, HTML, CSS
+* **Back-End**: Typescript, Node.js, relational and non-relational databases, websockets
+* **Tooling**: Deep expertise in build tools, CI configuration and optimization, workspaces and monorepo tooling
+* **Full-stack solutions**: crafting APIs, caching, build systems, databases, browser capabilities
+* **Testing**: Unit testing, end-to-end testing (BDD); testing strategies, writing good tests instead of chasing coverage
+* **Architecture**: Documenting complex sequences and system interactions
+* **Cloud Technologies**: Azure, AWS
+* **Communication**: Excellent written and verbal communication skills, adept at collaborating with diverse stakeholders
+* **Mentorship**: Proven ability to coach and mentor developers, fostering knowledge sharing and skill development
+
+### Professional Experience
+
+#### Solutions Developer V^*^, TD Canada Trust
+Mar 23 - Mar 24
+
+* Led and implemented the migration of two major mortgage pre-approval applications to a unified Angular/Spring Boot application, removing a dependency on Salesforce development.
+* Led and implemented a new case-creation application in React/Spring Boot for insurance call centers.
+
+#### UI Architect, Synapse Wireless
+Nov 21 - Feb 23
+
+* Architected and improved a cloud application for managing IoT network devices, focusing on high availability, observability, scalability, and seamless integration with on-premises controllers.
+* Drove the adoption of Nx-powered monorepo and CI, reducing build times to 7 minutes (from 40+), modularizing the codebase, and resolving dependency issues.
+
+#### Staff Software Developer, Intuit Canada
+Mar 21 - Nov 21
+
+* Spearheaded the tax form import functionality, significantly improving the user experience.
+* Enhanced code quality and maintainability through rigorous implementation of best practices and code reviews.
+
+
+#### Angular Architect^*^, SiriusXM and Scaled Agile  
+Nov 19 - Dec 20
+
+* Drove the architecture and development of multiple Angular applications within monorepos, enabling shared code and streamlined feature deployment across SiriusXM and Scaled Agile.
+* Reduced build and unit test times by over 75%, implementing efficient development practices and tooling.
+
+#### Angular Architect, Nrwl.io (now Nx)
+Mar 18 - Nov 19
+
+* As a key figure at Nrwl.io, championed the adoption and implementation of Nx for managing monorepos with clients, setting a standard for large-scale Angular projects.
+* Provided consulting services to Fortune 500 companies on Angular and Nx, enhancing their development processes and architecture.
+* Fostered a culture of growth with my direct reports, and revamped the hiring process to attract high-performing talent.
+
+#### Solutions Architect, Rangle.io
+Sep 17 - Mar 18
+
+* Led client projects focusing on UI and headless CMS, delivering bespoke solutions that drove significant improvements in client outcomes.
+* Acted as a technical liaison, effectively communicating complex solutions to stakeholders and ensuring alignment with business goals.
+
+
+#### Solutions Designer^*^, TD Wealth
+Jan 17 - Sep 17
+
+* Designed and developed an API for personalized mortgage rates, integrating with various systems including vendor systems, mainframes, and Spring Boot applications, resulting in a more personalized customer experience.
+
+#### Application Development Lead ^*^, Rogers Communications Inc.
+Nov 15 - Oct 16
+
+* Led the development of the Fido self-service customer portal and a new CMS-driven architecture for Rogers.com's Search and Support sections, enhancing customer engagement and support capabilities.
+
+#### Sr. javascript developer, Rangle.io
+Mar 14 - Nov 15
+
+* Early senior engineer in a well-known boutique consultancy, contributing to the development of innovative web applications using JavaScript frameworks for various clients.
+
+
+#### Web/Mobile developer, Koda Media Group
+Mar 13 - Mar 14
+
+#### Web developer, Brushfire North Inc.
+Sep 12 - Feb 13
+
+#### Lead front-end developer ^*^, Damashek Consulting Ltd.
+May 07 - Sep 12
+
+#### Web developer, Glenbriar Technologies Ltd.
+Dec 05 - Apr 07
+
+### Projects and Achievements
+Published Author:: Wrote a comprehensive guide on leveraging monorepos for efficient software development, contributing to the adoption of best practices across the Angular community.
+
+### Skills
+* Languages: Typescript, JavaScript
+* Frameworks/Libraries: Angular, React, Node.js, GraphQL
+* Tools: Nx, Azure, AWS, GitHub Actions, Docker, ElasticSearch
+
+_Roles marked with an asterisk () denote contract positions.^*^_
