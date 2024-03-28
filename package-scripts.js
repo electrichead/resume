@@ -1,10 +1,7 @@
-const npsUtils = require('nps-utils');
-const { resolve: pathResolve } = require('path');
-
 module.exports = {
   scripts: {
     default: 'build',
     build:
-      'docker run --rm -v $PWD:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf ./resume.adoc -a pdf-style=src/theme.yml -o ./dist/nv-resume.pdf',
+      'docker run --rm -v $PWD:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf ./src/resume-202403.adoc --theme=src/theme-new.yml -a pdf-fontsdir=assets/fonts -o ./dist/nv-resume.pdf',
   },
 };

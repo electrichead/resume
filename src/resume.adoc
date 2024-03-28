@@ -1,0 +1,226 @@
+= Nitin Vericherla CV
+Nitin Vericherla
+v20230127, 2023
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20230127
+:revdate: Jan 2023
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: src/images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Nitin Vericherla
+
+image::blank.png[,5,5]
+
+I'm a full-stack software architect, mentor, and author.
+
+### My experience
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Mar 23 - Present
+s|Software Development Consultant ^*^
+|`TD Canada Trust`
+
+|
+2+a|
+* Responsible for the architecture and implementation of 2 large mortgage pre-approval applications and their consolidation into a single new application
+* Merging 2 older application versions of Angular and NgRx and upgrading to Angular 14
+* Leading a large agile team
+* Coaching the team on Angular, monorepos, and concepts like SSO, caching, state management, and component-based architecture
+
+|===
+====
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Nov 21 - Feb 23
+s|UI Architect
+|`Synapse Wireless`
+
+|
+2+a|
+* Managed two Angular applications - one deployed on-prem and one in the cloud. Moved features into the cloud application and upgraded the Angular versions to be consistent (v14).
+* Championed the continuation of the adoption of a single monorepo for the whole organization through coaching and resolving the pain points 
+** bringing CI time down from 40+min to 7min
+** streamlining the Github actions to take advantage of parallel processing and to remove bottle-necks
+** adding end to end test runs post-deployment to verify (and allowing the suite to be run against any environment on demand)
+** resolving complicated dependency issues that were causing bottle-necks
+* Added observability to the cloud application through comprehensive logging and alerting to allow the dev team to be notified of issues well before customer complaints
+* Leveraged my extensive knowledge of Angular, NgRx, and Nx to guide the teams on state management, monorepo development practices, and application architecture
+
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Mar 21 - Nov 21
+s|Staff Software Developer
+|`Intuit Canada`
+
+|
+2+a|
+* Worked on the UI for importing W2 and other tax forms (US)
+* Worked on the UI architecture team to modernize the stack from older Angular versions to React
+
+|===
+====
+
+<<<
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Nov 19 - Dec 20
+s|Angular Architect ^*^
+|`SiriusXM and Scaled Agile`
+
+|
+2+a|
+* Championed the move into a monorepo and managing version upgrades
+* Re-architected the checkout and purchase workflows to leverage NgRx
+* Proved out and implemented architecture initiatives: component architecture, end to end tests using HAR files for network calls with Cypress, storybook testing
+* Coached the development team on Nx and Angular concepts
+* Reduced CI time from 40+ minutes to 10 minutes
+* Merged two applications into a monorepo with Nx and provided coaching and support
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+|Mar 18 - Nov 19
+s|Angular Architect
+|`Nrwl.io (now Nx)`
+
+|
+2+a|
+Nx is the company behind the monorepo and CI management tool, Nx. The company also provides consulting services for Angular and Nx to large Fortune 500 companies.
+
+* Worked with several 
+fortune 500 companies on critical initiatives
+** Fortune 500 Financial Services company on their adoption of Nx and monorepo; consolidating their large applications into a single code base in Angular and NgRx
+** Large Fortune 500 airline on their adoption of Nx
+** Proofs of Concept for their initiatives: merging applications into a monorepo, adopting NgRx patterns to simplify data management, managing state between server and client (SSR scenarios, across microservices, and real-time data)
+* Wrote the book "Enterprise Angular Monorepo Patterns"
+* Managed the professional development of 4 Nrwl engineers
+* Managed the hiring for Nrwl
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Sep 17 - Mar 18
+s|Solutions Architect
+|`Rangle.io`
+
+|
+2+a|Rangle is a well-known boutique consultancy company for Angular and React
+
+|
+2+a|
+* Proved out a new organization-wide architecture for driving site content from a headless CMS for a large airline company's Angular applications.
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Jan 17 - Sep 17
+s|Solutions Designer ^*^
+|`TD Wealth`
+
+|
+2+a|
+* Led a team of 10 developers across the stack (front-end through to mainframe)
+* Implemented on-demand personalized rates which combined historical data with business rules for the different products and attributes through a new API layer and front-end (Angular) application
+* Worked with multiple stakeholders and across other teams to deliver the solution
+
+|===
+====
+
+<<<
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Nov 15 - Oct 16
+s|Application Development Lead ^*^
+|`Rogers Communications Inc.`
+
+|
+2+a|
+* Led the development of Fido self-service for customers
+* Led the development of a new architecture for CMS-driven pages on rogers.com for Search and Support sections
+* For both projects we moved from legacy Angular 1.x to Angular 2
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Mar 14 - Nov 15
+s|Sr. javascript developer
+|`Rangle.io`
+
+|
+2+a|
+* Implemented the node and mongoDb back-end for a transit company to manage their fleet of vehicles
+* Implemented a framework for an ad agency to spin up complete new contest sites that had heavy traffic spikes
+* Created 2 mobile applications for mechanics for communications and to manage their workday: proof of concept through implementation
+* Mentored 4 developers
+
+|===
+====
+
+
+====
+[cols="20,50,>30",frame=none,grid=none]
+|===
+
+|Mar 13 - Mar 14
+s|Web/Mobile developer
+|`Koda Media Group`
+
+|Sep 12 - Feb 13
+s|Web developer
+|`Brushfire North Inc.`
+
+|May 07 - Sep 12
+s|Lead front-end developer ^*^
+|`Damashek Consulting Ltd.`
+
+|Dec 05 - Apr 07
+s|Web developer
+|`Glenbriar Technologies Ltd.`
+
+|===
+====
+
+^*^ _Contract roles_

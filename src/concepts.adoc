@@ -1,0 +1,32 @@
+= Nitin Vericherla Concepts
+Nitin Vericherla
+v2024.0001
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 2024.0001
+:revdate: Jan 2024
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: src/images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Concepts
+
+### APIs
+
+
+### State management
+
+### CI
+
+### Observability (o11y)
+
+### Dx

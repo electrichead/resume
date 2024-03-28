@@ -5,7 +5,9 @@
   "main": "npm run build",
   "dependencies": {
     "dockerode": "^2.5.8",
-    "pdf-lib": "^1.14.1"
+    "inquirer": "^9.2.12",
+    "pdf-lib": "^1.14.1",
+    "zx": "^7.2.3"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
@@ -14,7 +16,8 @@
     "rimraf": "^2.6.3"
   },
   "scripts": {
-    "start": "node ./node_modules/nps/dist/bin/nps",
+    "zx": "zx",
+    "start": "zx run-build.mts",
     "build": "node ./node_modules/nps/dist/bin/nps build"
   },
   "author": "Nitin Vericherla",

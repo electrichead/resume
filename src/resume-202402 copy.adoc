@@ -1,0 +1,217 @@
+= Nitin Vericherla CV
+Nitin Vericherla
+v20240221, 2024
+:author_name: Nitin Vericherla
+:author: {author_name}
+:revnumber: 20240221
+:revdate: Jan 2024
+:revremark: Initial Release 
+:doctype: book
+:notitle: true
+:encoding: utf-8
+:lang: en
+:icons: font
+:sectlinks:
+:sectanchors:
+:linkattrs:
+:imagesdir: images
+:source-highlighter: pygments
+:pygments-style: manni
+:pygments-linenums-mode: inline
+## Nitin Vericherla
+
+image::blank.png[,5,5]
+
+Software architect, mentor, and author with 20 years of hands-on experience.
+
+### Abilities
+
+Org-wide initiatives:: Leverage my in-depth knowledge of **Typescript**, UI frameworks (**Angular** and **React**), **Node**, and **Nx** to bootstrap new projects with industry-leading best practices and lead teams through delivery
++
+* Nx monorepos for Scaled Agile apps with Angular; SiriusXM with Angular with a java back-end; Synapse wireless to support the Angular and node apps using AWS firehose, lambdas, S3, and CloudFront; Github actions, graphQL, and Firebase
+* **Mobile HTML apps** for mobile technicians for elevator company for communicating with dispatch as well as their immediate tasks and diagnostics
+* Search and Support section of Rogers.com which featured enriched results and a **new architecture for the UI and API with headless CMS**
+* Monorepo for a marketing company to create campaigns that had 2-3 day spikes in traffic; node and mongoDB with backbone (this shows its age!). This reduced the time for campaign creation to a week or two compared to weeks and months.
+
+Communication::
+* Communicating with executives, development leads, and developers to find solutions when bringing code-bases together into a **monorepo** at SiriusXM, Scaled Agile, American Airlines, DataSite, and many others. It requires a great deal of care and a good amount of understanding of pain points to find good solutions.
+* Effectively communicating architecture solutions and **proofs of concept**, drafting **organization-wide documentation**, and writing effective documents (and a **published book on monorepos**).
+
+Transforming the developer experience:: Cut down on time spent on waiting, repetitive tasks, dependency management, standards, inter-team dependencies, and many more inefficiencies
++
+* **Reduced build times from 40mins+ to 10 mins or less** at SiriusXM, Synapse Wireless
+* Reduced unit test times and increased code coverage to 80%+ with well-written tests and **coaching on writing good tests** at T-Mobile, SiriusXM, Rangle
+* Crafted and maintained code generation templates for scaffolding common tasks at SiriusXM, Synapse Wireless, Scaled Agile, DataSite and more organizations, **reducing the bootstrap time to seconds for new features**
+* **Transformed entire organization and organization unit code-bases into monorepos** to leverage the advantages: shared types, simultaneous deployments, enabling massive refactors, and to foster collaborative engineering practices. SiriusXM, Synapse Wireless, DataSite, American Airlines, and others
+
+Tackling hard problems:: Latent race conditions, large refactors, upgrades, observability (o11y), performance optimizations
++
+* Resolving hard-to-debug race conditions for Synapse Wireless (to do with CQRS and multiple databases), document status propagation over websockets and message queues for DataSite, state management issues over graphql and within application state for DataSite and Synapse Wireless
+* **Large refactors of company-wide code-bases into a monorepo**: Synapse Wireless, DataSite, SiriusXM, Scaled Agile, and many others
+* **Observability (o11y) implementations** with log maturity (ElasticSearch-based and otherwise), tracking unhandled exceptions, implementing correlationIds and transactionIds throughout
+* Surfacing bugs and errors as early as possible through enforcing **strict typing**, writing **better unit tests**, writing **e2e tests with BDD**, and enforcing strict contracts between UI and back-end systems with **Swagger** (now **OpenAPI**)
+
+Coaching and mentorship:: Level up developers and teams by sharing insights and knowledge and; and foster the sharing of knowledge within teams
++
+* **Coached leads and teams** on Angular for SiriusXM, DataSite, Synapse Wireless, American Airlines
+* **Mentored direct reports** and engineers for Nrwl and Rangle - both with a high bar for engineering ability
+* **Implemented the hiring process for Nrwl**, questions and challenges for T-Mobile
+
+### Experience
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+|Mar 23 - Present
+s|Software Development Consultant ^*^
+|`TD Canada Trust`
+
+3+a|
+
+Migration of two large mortgage pre-approval applications from Salesforce to a single Angular/Spring Boot application on Azure
+
+|===
+====
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+|Nov 21 - Feb 23
+s|UI Architect
+|`Synapse Wireless`
+
+3+a|
+
+Software to manage IoT network devices from the cloud: Single cloud application interfacing with on-prem controllers and controller applications
+
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+|Mar 21 - Nov 21
+s|Staff Software Developer
+|`Intuit Canada`
+
+3+a|
+* Importing W2 and other tax forms (US)
+* UI architecture team to modernize the stack from older Angular versions to React
+
+|===
+====
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+|Nov 19 - Dec 20
+s|Angular Architect ^*^
+|`SiriusXM and Scaled Agile`
+
+3+a|
+SiriusXM has a number of applications written with Angular in a monorepo. Scaled Agile similarly has a few applications in a monorepo that share code.
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+|Mar 18 - Nov 19
+s|Angular Architect
+|`Nrwl.io (now Nx)`
+
+3+a|
+Nrwl is the company behind the monorepo and CI management tool, Nx. The company also provided consulting services for Angular and Nx to large Fortune 500 companies.
+
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+
+|Sep 17 - Mar 18
+s|Solutions Architect
+|`Rangle.io`
+
+3+a|Rangle is a well-known boutique consultancy company for Angular and React
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+
+|Jan 17 - Sep 17
+s|Solutions Designer ^*^
+|`TD Wealth`
+
+3+a|
+API for personalized mortgage rates which spanned vendor systems, mainframe, Spring Boot application, a node API and consumer UI application
+
+|===
+====
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+
+|Nov 15 - Oct 16
+s|Application Development Lead ^*^
+|`Rogers Communications Inc.`
+
+3+a|
+* Led the development of Fido self-service for customers
+* Led the development of a new architecture for CMS-driven pages on rogers.com for Search and Support sections
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+
+|Mar 14 - Nov 15
+s|Sr. javascript developer
+|`Rangle.io`
+
+3+a|
+Rangle.io is a well-known boutique consultancy in the javascript space. I was an early senior engineer.
+
+|===
+====
+
+
+====
+[cols="22,50,>28",frame=none,grid=none]
+|===
+
+|Mar 13 - Mar 14
+s|Web/Mobile developer
+|`Koda Media Group`
+
+|Sep 12 - Feb 13
+s|Web developer
+|`Brushfire North Inc.`
+
+|May 07 - Sep 12
+s|Lead front-end developer ^*^
+|`Damashek Consulting Ltd.`
+
+|Dec 05 - Apr 07
+s|Web developer
+|`Glenbriar Technologies Ltd.`
+
+|===
+====
+
+^*^ _Contract roles_
