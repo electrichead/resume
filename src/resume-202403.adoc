@@ -21,7 +21,7 @@ v20240221, 2024
 ## Nitin Vericherla
 
 ### About Me
-Much like in _The Structure of Scientific Revolutions_, software development has also had periods of intense development in one paradigm before shifting to another. I've had 20 years to delve into many different paradigms with web applications - from the days of post-backs and frames to the rise of XMLHTTPRequest and single page applications, microservices, event-based architectures, and now into CI and mobile. I've been lucky to work at many organizations that were pushing the boundaries of what is possible within that paradigm, and have learned not only how to leverage these experiences to my advantage, but also how to avoid the pitfalls.
+With strong expertise across the stack, I strive to improve the development process at organizations through delivering well-architected solutions, coaching and leveling-up development teams, and providing thoughtful leadership.
 
 ### Core Competencies
 * **Front-End**: Typescript, Angular, React, HTML, CSS
