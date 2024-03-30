@@ -21,14 +21,14 @@ v20240221, 2024
 ## Nitin Vericherla
 
 ### About Me
-Much like in _The Structure of Scientific Revolutions_, software development has also had periods of intense development in one paradigm before shifting to another. I've had 20 years to delve into many different paradigms with web applications - from the days of post-backs and frames to the rise of XMLHTTPRequest and single page applications, microservices, event-based architectures, and now into CI and mobile. I've been lucky to work at many organizations that were pushing the boundaries of what is possible within that paradigm, and have learned not only how to leverage these experiences to my advantage, but also how to avoid the pitfalls.
+Delivering well-architected solutions, coaching and leveling-up development teams, and providing thoughtful leadership.
 
 ### Core Competencies
 * **Front-End**: Typescript, Angular, React, HTML, CSS
 * **Back-End**: Typescript, Node.js, Express
 * **Tooling**: Nx, Typescript, OpenAPI, Docker
 * **Architecture**: Documentation, analysis, requirements gathering, APIs, caching, i18n, o11y
-* **Testing**: Unit testing, end-to-end testing (BDD); testing strategies, writing good tests instead of chasing coverage
+* **Testing**: Unit testing (jest), end-to-end testing (Cypress, Playwright); testing strategies, writing good tests instead of chasing coverage
 * **Cloud Technologies**: Azure, AWS, Firebase
 * **Communication**: Excellent written and verbal communication skills, adept at collaborating with diverse stakeholders
 * **Mentorship**: Proven ability to coach and mentor developers, fostering knowledge sharing and skill development
